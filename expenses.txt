@@ -1,0 +1,11 @@
+Food,Shake,50.0,01-09-2026
+Food,lunch,70.0,01-09-2026
+Food,Milk,33.0,01-09-2026
+Others,Previous Payment,283.0,01-09-2026
+Food,lunch,110.0,02-09-2026
+Food,dinner,100.0,02-09-2026
+Food,banana,20.0,02-09-2026
+Food,lunch,110.0,03-09-2026
+Food,milk,36.0,03-09-2026
+Food,dinner,87.0,03-09-2026
+Food,lunch,110.0,04-09-2026
